@@ -1,0 +1,1 @@
+![](yegorletov1.png)
