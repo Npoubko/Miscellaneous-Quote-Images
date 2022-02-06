@@ -1,5 +1,5 @@
 # Miscellaneous Quote Images
-The best quotes of various men, in image format. Go into the /images folder and scroll down to see all of them. Please download and share.
+The best quotes of various men, in image format. Please download and share.
 
 If you're on your phone, open the "code" tab up top, click a book folder, and then scroll down to see the images.
 
