@@ -1,3 +1,3 @@
 Riz Ortolani quotes here
 
-!()[rizortolani1.png]
+![](rizortolani1.png)
