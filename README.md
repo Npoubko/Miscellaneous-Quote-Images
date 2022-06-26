@@ -1,7 +1,7 @@
 # Miscellaneous Quote Images
 The best quotes of various men, in image format. Please download and share.
 
-If you're on your phone, open the "code" tab up top, click a book folder, and then scroll down to see the images.
+If you're on your phone, open the "code" tab up top, click a folder, and then scroll down to see the images.
 
 If on desktop, just open a book folder and scroll down to see the images.
 
