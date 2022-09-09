@@ -1,0 +1,1 @@
+![](mccarthy1.png)
