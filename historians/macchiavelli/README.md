@@ -1,0 +1,1 @@
+![](machiavelli1.png)
